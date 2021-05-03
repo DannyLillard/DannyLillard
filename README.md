@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DannyLillard
+- 👀 I’m interested in database development, ETL, and data in general!
+- 🌱 I’m currently learning SQL, and general database knowledge
+- 📫 How to reach me: dannylillard10@gmail.com
